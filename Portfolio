@@ -1,0 +1,44 @@
+<html>
+
+<body>
+<head>
+<LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+
+</head>
+
+<p> Hi, I&apos;m Marianne. I&apos;m a strategist and UX designer. I graduated from Sciences Po Paris and I&apos;m currently working at <a href="https://www.supper.paris/" target="_blank"> Supper</a>. 
+</p>
+
+<p> Check out <a href="https://www.behance.net/marianne-d0c8e" target="_blank"> my work</a> or <a href="mailto:marianne.diazortiz@sciencespo.fr" target="_blank">contact me</a>. I&apos;d be happy to chat. 
+</p>
+
+<p> By the way, I&apos;m also a <a href="https://diazmarianne.carbonmade.com/" target="_blank">photographer</a>. 
+</p>
+
+<div class="identity">
+	<img class="photo" src="resc/Marianne_Diaz_photo.jpeg" alt="Marianne" /> 
+
+	<img class="logo" src="resc/Logo_Marianne.png" alt="logo" /> 
+</div>
+
+</body>
+
+<footer>
+
+<a href="https://www.linkedin.com/feed/" target="_blank">
+<img class="LinkedIn" src="resc/icons8-linkedin.png" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/Mariannehdiaz" target="_blank">
+<img class="Twitter" src="resc/icons8-twitter_filled.png" alt="Twitter"> 
+</a>
+
+<a href="mailto:marianne.diazortiz@sciencespo.fr">
+<img class="Mail" src="resc/icons8-message_filled.png" alt="Mail"> 
+</a>
+
+</footer>
+
+
+</html>

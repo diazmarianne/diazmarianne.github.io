@@ -1,2 +1,2 @@
 # diazmarianne.github.io
-<h1> Hello, I'm Marianne </h1>
+<p> Hello, I'm Marianne. I'm a graduate from Sciences Po Paris currently looking for a UX designer position in Paris </p>

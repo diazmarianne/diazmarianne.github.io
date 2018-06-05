@@ -1,0 +1,84 @@
+a {
+color: #343636;
+}
+
+a:hover {
+color: #00D5B8;
+}
+
+body {
+  	max-width: 530px;
+  
+	margin-top: 90px;
+	margin-right: auto;
+ 	margin-bottom: auto;
+ 	margin-left: auto;
+
+	line-height: 1.9em;
+}
+
+P {
+  	font-family: 'Open Sans', sans-serif;
+	font-size: 1.4em;
+	color: #343636;
+}
+
+.identity {
+	width: 100%;
+	position: relative;
+	min-height: 300px;
+}
+
+img.logo {
+	position: absolute;
+	width: 70%;
+	z-index: 999;
+	top: 7%;
+}
+
+img.photo {
+	position: absolute;
+	width: 50%;	
+	right: 0;
+	z-index: -2;
+}
+
+.clearfix {
+	display: block;
+	clear: both;
+}
+
+
+footer {
+	display: block;
+  	max-width: 500px;
+
+	margin-top: 60px;
+	margin-right: auto;
+ 	margin-bottom: 10px;
+ 	margin-left: auto;
+}
+
+
+img.LinkedIn {
+	width: 4%;
+}
+
+img.Twitter {
+	width: 5%; 
+	margin-left: 5px;
+}
+
+img.Mail {
+	width: 5%; 
+	margin-left: 5px;
+}
+
+footer a {
+	text-decoration: none;
+}
+
+footer img:hover {
+	opacity: 0.8;
+}
+

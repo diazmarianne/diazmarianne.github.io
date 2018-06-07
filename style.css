@@ -9,11 +9,10 @@ color: #00D5B8;
 body {
   	max-width: 530px;
   
-	margin-top: 90px;
-	margin-right: auto;
- 	margin-bottom: auto;
- 	margin-left: auto;
-
+	margin: auto;
+	margin-top: 5em;
+	padding: 1.4em;
+	
 	line-height: 1.9em;
 }
 

@@ -73,6 +73,11 @@ img.Mail {
 	margin-left: 5px;
 }
 
+img.Medium {
+	width: 5%; 
+	margin-left: 5px;
+}
+
 footer a {
 	text-decoration: none;
 }
